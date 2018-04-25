@@ -1,0 +1,9 @@
+spring:
+  kafka:
+    consumer:
+      auto-offset-reset: earliest
+      group-id: messages
+
+kafka:
+  topic:
+    messages: messages.t

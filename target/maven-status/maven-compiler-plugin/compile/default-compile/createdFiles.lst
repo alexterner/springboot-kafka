@@ -1,1 +1,3 @@
-com/mycompany/springboot/kafka/App.class
+com/mycompany/springboot/kafka/producer/Producer.class
+com/mycompany/springboot/kafka/SpringbootKafkaApplication.class
+com/mycompany/springboot/kafka/consumer/Consumer.class

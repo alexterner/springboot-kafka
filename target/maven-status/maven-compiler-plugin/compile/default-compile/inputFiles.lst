@@ -1,1 +1,3 @@
-/Users/alexterner/GitHub/springboot-kafka/src/main/java/com/mycompany/springboot/kafka/App.java
+/Users/alexterner/GitHub/springboot-kafka/src/main/java/com/mycompany/springboot/kafka/producer/Producer.java
+/Users/alexterner/GitHub/springboot-kafka/src/main/java/com/mycompany/springboot/kafka/consumer/Consumer.java
+/Users/alexterner/GitHub/springboot-kafka/src/main/java/com/mycompany/springboot/kafka/SpringbootKafkaApplication.java
